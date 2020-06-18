@@ -3,7 +3,7 @@
 
 # Contact Me
 
-You can always come to me, and ***AMA*** (***Ask Me Anything***). I'm not going to lie, and tell you I know everything. But if I don't have an answer tp your question, I vow to help you find the answer using whatever resources are available at my fingertips.
+You can always come to me, and ***AMA*** (***Ask Me Anything***). I'm not going to lie, and tell you I know everything. But if I don't have an answer to your question, I vow to help you find the answer using whatever resources are available at my fingertips.
 
 These are all the possible ways you can reach me besides ***[LinkedIn](https://www.linkedin.com/in/mikerostx "LinkedIn")***, ***[Twitter](https://www.twitter.com/MikeRosTX "Twitter")***, ***[GitHub](https://github.com/MikeRosTX "GitHub")***, and ***[Instagram](https://www.instagram.com/MikeRosTX "Instagram")***:
 
