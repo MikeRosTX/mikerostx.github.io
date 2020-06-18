@@ -10,7 +10,7 @@ layout: default
 
 ### Community Advocate 🥑
 
-My choice of pronouns are ***We/They*** as an effort to build a more inclusive community.
+My choice of pronouns are ***We/Us*** as an effort to build a more inclusive community.
 
 Many people know me on social media as ***bona fide Señor Pinky*** 👁️💗2️⃣💪♀️⚙️👩‍💻 for a couple of reasons:
 
@@ -27,7 +27,7 @@ Many people know me on social media as ***bona fide Señor Pinky*** 👁️💗2
 
 💪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**empower** & **support**
 
-♀️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**women**
+♀️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**women**
 
 ⚙️(DevOps)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**developing**
 
