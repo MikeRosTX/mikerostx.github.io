@@ -1,11 +1,11 @@
 /*!
 * jQuery Mobile 1.4.5
 * Git HEAD hash: 68e55e78b292634d3991c795f06f5e37a512decc <> Date: Fri Oct 31 2014 17:33:30 UTC
-* http://jquerymobile.com
+* https://jquerymobile.com
 *
 * Copyright 2010, 2014 jQuery Foundation, Inc. and othercontributors
 * Released under the MIT license.
-* http://jquery.org/license
+* https://jquery.org/license
 *
 */
 
@@ -2036,7 +2036,7 @@ fieldset.ui-controlgroup {
 	left: -14.142135623px;
 	top: -4.142135623px;
 }
-/* Fix rotation center for oldIE - see http://www.useragentman.com/IETransformsTranslator/ */
+/* Fix rotation center for oldIE - see https://www.useragentman.com/IETransformsTranslator/ */
 .ui-popup-arrow-container.ui-popup-arrow-t.ie .ui-popup-arrow {
     margin-left: -5.857864376269049px;
     margin-top: -7.0710678118654755px;

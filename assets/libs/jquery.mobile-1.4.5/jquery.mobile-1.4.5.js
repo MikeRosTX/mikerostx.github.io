@@ -1,11 +1,11 @@
 /*!
 * jQuery Mobile 1.4.5
 * Git HEAD hash: 68e55e78b292634d3991c795f06f5e37a512decc <> Date: Fri Oct 31 2014 17:33:30 UTC
-* http://jquerymobile.com
+* https://jquerymobile.com
 *
 * Copyright 2010, 2014 jQuery Foundation, Inc. and othercontributors
 * Released under the MIT license.
-* http://jquery.org/license
+* https://jquery.org/license
 *
 */
 
@@ -28,13 +28,13 @@
 
 /*!
  * jQuery UI Core c0ab71056b936627e8a7821f03c044aec6280a40
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright 2013 jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  *
- * http://api.jqueryui.com/category/ui-core/
+ * https://api.jqueryui.com/category/ui-core/
  */
 (function( $, undefined ) {
 
@@ -225,7 +225,7 @@ if ( !$.fn.addBack ) {
 	};
 }
 
-// support: jQuery 1.6.1, 1.6.2 (http://bugs.jquery.com/ticket/9413)
+// support: jQuery 1.6.1, 1.6.2 (https://bugs.jquery.com/ticket/9413)
 if ( $( "<a>" ).data( "a-b", "a" ).removeData( "a-b" ).data( "a-b" ) ) {
 	$.fn.removeData = (function( removeData ) {
 		return function( key ) {
@@ -739,13 +739,13 @@ $.ui.plugin = {
 
 /*!
  * jQuery UI Widget c0ab71056b936627e8a7821f03c044aec6280a40
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright 2013 jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  *
- * http://api.jqueryui.com/jQuery.widget/
+ * https://api.jqueryui.com/jQuery.widget/
  */
 (function( $, undefined ) {
 
@@ -756,7 +756,7 @@ $.cleanData = function( elems ) {
 	for ( var i = 0, elem; (elem = elems[i]) != null; i++ ) {
 		try {
 			$( elem ).triggerHandler( "remove" );
-		// http://bugs.jquery.com/ticket/8235
+		// https://bugs.jquery.com/ticket/8235
 		} catch( e ) {}
 	}
 	_cleanData( elems );
@@ -1014,7 +1014,7 @@ $.Widget.prototype = {
 			.unbind( this.eventNamespace )
 			.removeData( this.widgetFullName )
 			// support: jquery <1.6.3
-			// http://bugs.jquery.com/ticket/9413
+			// https://bugs.jquery.com/ticket/9413
 			.removeData( $.camelCase( this.widgetFullName ) );
 		this.widget()
 			.unbind( this.eventNamespace )
@@ -1311,7 +1311,7 @@ $.each( { show: "fadeIn", hide: "fadeOut" }, function( method, defaultEffect ) {
 		},
 
 		// Find the closest javascript page element to gather settings data jsperf test
-		// http://jsperf.com/single-complex-selector-vs-many-complex-selectors/edit
+		// https://jsperf.com/single-complex-selector-vs-many-complex-selectors/edit
 		// possibly naive, but it shows that the parsing overhead for *just* the page selector vs
 		// the page and dialog selector is negligable. This could probably be speed up by
 		// doing a similar parent node traversal to the one found in the inherited theme code above
@@ -1543,35 +1543,35 @@ $.mobile.widget = $.Widget;
 
 /*!
  * jQuery hashchange event - v1.3 - 7/21/2010
- * http://benalman.com/projects/jquery-hashchange-plugin/
+ * https://benalman.com/projects/jquery-hashchange-plugin/
  * 
  * Copyright (c) 2010 "Cowboy" Ben Alman
  * Dual licensed under the MIT and GPL licenses.
- * http://benalman.com/about/license/
+ * https://benalman.com/about/license/
  */
 
 // Script: jQuery hashchange event
 //
 // *Version: 1.3, Last updated: 7/21/2010*
 // 
-// Project Home - http://benalman.com/projects/jquery-hashchange-plugin/
-// GitHub       - http://github.com/cowboy/jquery-hashchange/
-// Source       - http://github.com/cowboy/jquery-hashchange/raw/master/jquery.ba-hashchange.js
-// (Minified)   - http://github.com/cowboy/jquery-hashchange/raw/master/jquery.ba-hashchange.min.js (0.8kb gzipped)
+// Project Home - https://benalman.com/projects/jquery-hashchange-plugin/
+// GitHub       - https://github.com/cowboy/jquery-hashchange/
+// Source       - https://github.com/cowboy/jquery-hashchange/raw/master/jquery.ba-hashchange.js
+// (Minified)   - https://github.com/cowboy/jquery-hashchange/raw/master/jquery.ba-hashchange.min.js (0.8kb gzipped)
 // 
 // About: License
 // 
 // Copyright (c) 2010 "Cowboy" Ben Alman,
 // Dual licensed under the MIT and GPL licenses.
-// http://benalman.com/about/license/
+// https://benalman.com/about/license/
 // 
 // About: Examples
 // 
 // These working examples, complete with fully commented code, illustrate a few
 // ways in which this plugin can be used.
 // 
-// hashchange event - http://benalman.com/code/projects/jquery-hashchange/examples/hashchange/
-// document.domain - http://benalman.com/code/projects/jquery-hashchange/examples/document_domain/
+// hashchange event - https://benalman.com/code/projects/jquery-hashchange/examples/hashchange/
+// document.domain - https://benalman.com/code/projects/jquery-hashchange/examples/document_domain/
 // 
 // About: Support and Testing
 // 
@@ -1582,7 +1582,7 @@ $.mobile.widget = $.Widget;
 // jQuery Versions - 1.2.6, 1.3.2, 1.4.1, 1.4.2
 // Browsers Tested - Internet Explorer 6-8, Firefox 2-4, Chrome 5-6, Safari 3.2-5,
 //                   Opera 9.6-10.60, iPhone 3.1, Android 1.6-2.2, BlackBerry 4.6-5.
-// Unit Tests      - http://benalman.com/code/projects/jquery-hashchange/unit/
+// Unit Tests      - https://benalman.com/code/projects/jquery-hashchange/unit/
 // 
 // About: Known issues
 // 
@@ -1592,10 +1592,10 @@ $.mobile.widget = $.Widget;
 // window.onhashchange abstraction. See the following examples for more
 // information:
 // 
-// Chrome: Back Button - http://benalman.com/code/projects/jquery-hashchange/examples/bug-chrome-back-button/
-// Firefox: Remote XMLHttpRequest - http://benalman.com/code/projects/jquery-hashchange/examples/bug-firefox-remote-xhr/
-// WebKit: Back Button in an Iframe - http://benalman.com/code/projects/jquery-hashchange/examples/bug-webkit-hash-iframe/
-// Safari: Back Button from a different domain - http://benalman.com/code/projects/jquery-hashchange/examples/bug-safari-back-from-diff-domain/
+// Chrome: Back Button - https://benalman.com/code/projects/jquery-hashchange/examples/bug-chrome-back-button/
+// Firefox: Remote XMLHttpRequest - https://benalman.com/code/projects/jquery-hashchange/examples/bug-firefox-remote-xhr/
+// WebKit: Back Button in an Iframe - https://benalman.com/code/projects/jquery-hashchange/examples/bug-webkit-hash-iframe/
+// Safari: Back Button from a different domain - https://benalman.com/code/projects/jquery-hashchange/examples/bug-safari-back-from-diff-domain/
 // 
 // Also note that should a browser natively support the window.onhashchange 
 // event, but not report that it does, the fallback polling loop will be used.
@@ -1605,7 +1605,7 @@ $.mobile.widget = $.Widget;
 // 1.3   - (7/21/2010) Reorganized IE6/7 Iframe code to make it more
 //         "removable" for mobile-only development. Added IE6/7 document.title
 //         support. Attempted to make Iframe as hidden as possible by using
-//         techniques from http://www.paciellogroup.com/blog/?p=604. Added 
+//         techniques from https://www.paciellogroup.com/blog/?p=604. Added 
 //         support for the "shortcut" format $(window).hashchange( fn ) and
 //         $(window).hashchange() like jQuery provides for built-in events.
 //         Renamed jQuery.hashchangeDelay to <jQuery.fn.hashchange.delay> and
@@ -1855,7 +1855,7 @@ $.mobile.widget = $.Widget;
           iframe_src = iframe_src && iframe_src + get_fragment();
           
           // Create hidden Iframe. Attempt to make Iframe as hidden as possible
-          // by using techniques from http://www.paciellogroup.com/blog/?p=604.
+          // by using techniques from https://www.paciellogroup.com/blog/?p=604.
           iframe = $('<iframe tabindex="-1" title="empty"/>').hide()
             
             // When Iframe has completely loaded, initialize the history and
@@ -2017,7 +2017,7 @@ var fakeBody = $( "<body>" ).prependTo( "html" ),
 function inlineSVG() {
 	// Thanks Modernizr & Erik Dahlstrom
 	var w = window,
-		svg = !!w.document.createElementNS && !!w.document.createElementNS( "http://www.w3.org/2000/svg", "svg" ).createSVGRect && !( w.opera && navigator.userAgent.indexOf( "Chrome" ) === -1 ),
+		svg = !!w.document.createElementNS && !!w.document.createElementNS( "https://www.w3.org/2000/svg", "svg" ).createSVGRect && !( w.opera && navigator.userAgent.indexOf( "Chrome" ) === -1 ),
 		support = function( data ) {
 			if ( !( data && svg ) ) {
 				$( "html" ).addClass( "ui-nosvg" );
@@ -2111,7 +2111,7 @@ function boundingRect() {
 	return typeof div.getBoundingClientRect !== "undefined";
 }
 
-// non-UA-based IE version check by James Padolsey, modified by jdalton - from http://gist.github.com/527683
+// non-UA-based IE version check by James Padolsey, modified by jdalton - from https://gist.github.com/527683
 // allows for inclusion of IE 6+, including Windows Mobile 7
 $.extend( $.mobile, { browser: {} } );
 $.mobile.browser.oldIE = (function() {
@@ -2188,7 +2188,7 @@ $.extend( $.support, {
 fakeBody.remove();
 
 // $.mobile.ajaxBlacklist is used to override ajaxEnabled on platforms that have known conflicts with hash history updates (BB5, Symbian)
-// or that generally work better browsing in regular http for full page refreshes (Opera Mini)
+// or that generally work better browsing in regular https for full page refreshes (Opera Mini)
 // Note: This detection below is used as a last resort.
 // We recommend only using these detection methods when all other more reliable/forward-looking approaches are not possible
 nokiaLTE7_3 = (function() {
@@ -2363,11 +2363,11 @@ if ( !$.support.boxShadow ) {
 			// URL as well as some other commonly used sub-parts. When used with RegExp.exec()
 			// or String.match, it parses the URL into a results array that looks like this:
 			//
-			//     [0]: http://jblas:password@mycompany.com:8080/mail/inbox?msg=1234&type=unread#msg-content
-			//     [1]: http://jblas:password@mycompany.com:8080/mail/inbox?msg=1234&type=unread
-			//     [2]: http://jblas:password@mycompany.com:8080/mail/inbox
-			//     [3]: http://jblas:password@mycompany.com:8080
-			//     [4]: http:
+			//     [0]: https://jblas:password@mycompany.com:8080/mail/inbox?msg=1234&type=unread#msg-content
+			//     [1]: https://jblas:password@mycompany.com:8080/mail/inbox?msg=1234&type=unread
+			//     [2]: https://jblas:password@mycompany.com:8080/mail/inbox
+			//     [3]: https://jblas:password@mycompany.com:8080
+			//     [4]: https:
 			//     [5]: //
 			//     [6]: jblas:password@mycompany.com:8080
 			//     [7]: jblas:password
@@ -2757,7 +2757,7 @@ if ( !$.support.boxShadow ) {
 			// via the file:// protocol. This is usually to allow the application to
 			// "phone home" and fetch app specific data. We normally let the browser
 			// handle external/cross-domain urls, but if the allowCrossDomainPages
-			// option is true, we will allow cross-domain http/https requests to go
+			// option is true, we will allow cross-domain https/https requests to go
 			// through our page loading logic.
 			isPermittedCrossDomainRequest: function( docUrl, reqUrl ) {
 				return $.mobile.allowCrossDomainPages &&
@@ -2968,7 +2968,7 @@ if ( !$.support.boxShadow ) {
 			if ( loc.pathname + loc.search === parsed.pathname + parsed.search ) {
 				// If the pathname and search of the passed url is identical to the current loc
 				// then we must use the hash. Otherwise there will be no event
-				// eg, url = "/foo/bar?baz#bang", location.href = "http://example.com/foo/bar?baz"
+				// eg, url = "/foo/bar?baz#bang", location.href = "https://example.com/foo/bar?baz"
 				hash = parsed.hash ? parsed.hash : parsed.pathname + parsed.search;
 			} else if ( path.isPath(url) ) {
 				resolved = path.parseUrl( href );
@@ -6107,7 +6107,7 @@ $.widget( "mobile.page", {
 			// requests if the document doing the request was loaded via the file:// protocol.
 			// This is usually to allow the application to "phone home" and fetch app specific
 			// data. We normally let the browser handle external/cross-domain urls, but if the
-			// allowCrossDomainPages option is true, we will allow cross-domain http/https
+			// allowCrossDomainPages option is true, we will allow cross-domain https/https
 			// requests to go through our page loading logic.
 
 			//check for protocol or rel and its not an embedded page
@@ -14395,13 +14395,13 @@ $.widget( "mobile.listview", $.mobile.listview, {
 
 /*!
  * jQuery UI Tabs fadf2b312a05040436451c64bbfaf4814bc62c56
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright 2013 jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  *
- * http://api.jqueryui.com/tabs/
+ * https://api.jqueryui.com/tabs/
  *
  * Depends:
  *	jquery.ui.core.js
@@ -15195,7 +15195,7 @@ $.widget( "ui.tabs", {
 			this.xhr
 				.success(function( response ) {
 					// support: jQuery <1.8
-					// http://bugs.jquery.com/ticket/11778
+					// https://bugs.jquery.com/ticket/11778
 					setTimeout(function() {
 						panel.html( response );
 						that._trigger( "load", event, eventData );
@@ -15203,7 +15203,7 @@ $.widget( "ui.tabs", {
 				})
 				.complete(function( jqXHR, status ) {
 					// support: jQuery <1.8
-					// http://bugs.jquery.com/ticket/11778
+					// https://bugs.jquery.com/ticket/11778
 					setTimeout(function() {
 						if ( status === "abort" ) {
 							that.panels.stop( false, true );
@@ -15306,7 +15306,7 @@ $.widget( "ui.tabs", {
 	}
 
 	// override ajaxEnabled on platforms that have known conflicts with hash history updates
-	// or generally work better browsing in regular http for full page refreshes (BB5, Opera Mini)
+	// or generally work better browsing in regular https for full page refreshes (BB5, Opera Mini)
 	if ( $.mobile.ajaxBlacklist ) {
 		$.mobile.ajaxEnabled = false;
 	}
