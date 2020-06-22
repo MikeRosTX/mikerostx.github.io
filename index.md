@@ -12,7 +12,7 @@ layout: default
 
 My choice of pronouns are ***We/Us*** as an effort to build a more inclusive community.
 
-Many people know me on social media as ***bona fide Señor Pinky*** 👁️💗2️⃣💪♀️⚙️👩‍💻 for a couple of reasons:
+Many people know me on social media as ***bona fide Señor Pinky*** 👁️💗2️⃣💪🏽♀️⚙️👩🏽‍💻 for a couple of reasons:
 
 - ***bona fide*** means I'm sincere; without intention to deceive.
 - ***Señor*** means *Mister* in Spanish.
@@ -25,12 +25,12 @@ Many people know me on social media as ***bona fide Señor Pinky*** 👁️💗2
 
 2️⃣(two)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**to**
 
-💪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**empower** & **support**
+💪🏽&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**empower** & **support**
 
 ♀️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**women**
 
 ⚙️(DevOps)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**developing**
 
-👩‍💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**code**
+👩🏽‍💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**code**
 
 [Get to know me better](/about-me "Get to know me better").
