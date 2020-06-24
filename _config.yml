@@ -15,7 +15,7 @@ left_side:
   background_image: "./assets/images/left-background.jpg"
   background_color: "#DDA0DD"
   close_button_color: "#F00"
-  text_color: "#FF00DC"
+  text_color: "#eaf3ff"
 
 footer:
   copyright_text: "&copy; Señor Pinky&trade;"
