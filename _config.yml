@@ -6,10 +6,18 @@ defaults:
     values:
       layout: default
 
+<<<<<<< HEAD
 title: Señor Pinky
 subtitle: Community Advocate
 description: "👁️💗2️⃣💪🏽♀️⚙️👩🏽‍💻"
 avatar: "/assets/images/CovidSenorPinky.jpg"
+=======
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+title: Christian Ezeani
+subtitle: Full-Stack Developer
+>>>>>>> 57fbcdbbdec72d75999554a1040e1813291c5b4c
 
 left_side:
   background_image: "./assets/images/left-background.jpg"
@@ -42,8 +50,13 @@ menu:
 #    link: /resume
 #    icon: ""
 
+<<<<<<< HEAD
   - text: Contact Me
     link: /contact
+=======
+  - text: Blog Posts
+    link: /blog
+>>>>>>> 57fbcdbbdec72d75999554a1040e1813291c5b4c
     icon: ""
 
 
