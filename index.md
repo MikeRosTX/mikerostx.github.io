@@ -8,7 +8,7 @@ layout: default
 
 ## Mike Rosado (aka: Señor Pinky)
 
-### Community Advocate 🥑
+### Customer Success Acct Mgr 🥑
 
 My choice of pronouns are ***We/Us*** as an effort to build a more inclusive community.
 

@@ -6,13 +6,11 @@ source "https://rubygems.org"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem 'github-pages', group: :jekyll_plugins
 
+gem 'wdm', '>= 0.1.0'
+
 group :jekyll_plugins do
-<<<<<<< HEAD
-  gem "jekyll-assets", "~> 1.0"
-=======
   gem "jekyll-avatar"
   gem "jekyll-assets"
->>>>>>> 57fbcdbbdec72d75999554a1040e1813291c5b4c
   gem "jekyll-remote-theme"
   gem "jekyll-paginate"
   gem "jekyll-default-layout"
