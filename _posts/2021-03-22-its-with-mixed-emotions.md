@@ -2,7 +2,7 @@
 layout: post
 title: It's With Mixed Emotions...
 date: 2021-03-22 08:00:00 -05:00
-description: Have you ever received an email with a subject line that started off “It’s with mixed emotions…“ ? This usually was an indication of a sob story about to follow either saying... # Add post description (optional)
+description: Have you ever received an email with a subject line that started off "It’s with mixed emotions…"? This usually was an indication of a sob story about to follow either saying... # Add post description (optional)
 image: /assets/images/devops_blog.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [career, careers]
